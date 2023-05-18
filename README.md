@@ -13,9 +13,8 @@
 
 1. Clone este repositório ou faça o download dos arquivos.
 2. Abra o arquivo `index.html` em um navegador web compatível.
-3. Navegue pelas diferentes seções de notícias clicando nos links do menu ou nos botões de destaque.
-4. Utilize a funcionalidade de busca para encontrar notícias específicas.
-5. Explore o design e o layout responsivo do portal em diferentes dispositivos.
+3. Navegue pelas diferentes seções de notícias.
+4. Explore o design e o layout.
 
 ## Design Atraente
 
