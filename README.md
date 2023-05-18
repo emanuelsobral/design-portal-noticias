@@ -33,6 +33,6 @@ Este projeto está licenciado sob a Licença MIT. Você pode utilizar, modificar
 
 ## Contato
 
-Se você tiver alguma dúvida, sugestão ou comentário sobre esta atividade, sinta-se à vontade para entrar em contato comigo através do email seu-email@example.com.
+Se você tiver alguma dúvida, sugestão ou comentário sobre esta atividade, sinta-se à vontade para entrar em contato comigo através do email emanuelssobral@gmail.com.
 
 Espero que esta atividade de design de um Portal de Notícias seja útil para você aprimorar suas habilidades em design de interfaces. Divirta-se explorando!
